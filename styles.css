@@ -25,3 +25,8 @@
 .tool-tags:last-child{margin-bottom:0}.languages{grid-column:1/-1}.languages p{font-size:13px;line-height:1.7;margin:0}
 @media(max-width:760px){.skills-panel{grid-template-columns:1fr}.writing{font-size:6vw}}
 @media(max-width:500px){.writing{font-size:10vw}}
+
+/* Preserve the complete screenshots and avoid enlarging the low-resolution reel crop. */
+#mood-mirror .project-visual>img,#hot-n-cold .project-visual>img{object-fit:contain;object-position:center}
+#mood-mirror .project-visual{background:#171a1e}
+#hot-n-cold .project-visual{background:var(--ink)}
