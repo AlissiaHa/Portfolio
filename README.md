@@ -29,7 +29,7 @@ Statische Portfolio-Website für GitHub Pages. Kein Build und keine Installation
 
 ## Bildnachweise
 
-- Mood Mirror: Screenshot/Vorschaubild des von Alissia verlinkten Videos https://youtu.be/FSpC67H90oI.
+- Mood Mirror: von Alissia Haldemann bereitgestellter Screenshot (`mood mirror.png`).
 - Hot n Cold: Standbild des verlinkten Instagram-Reels https://www.instagram.com/reel/DZ9346UM9RM/.
 
 - Alumni-Akquiseaktion: von Alissia Haldemann bereitgestellte Fotos.
