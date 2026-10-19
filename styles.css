@@ -9,3 +9,19 @@
 .hero-bottom p{min-width:0}.round-link{flex-shrink:0}
 
 #hot-n-cold .project-visual>img{object-position:50% 20%}
+
+/* Writing samples and personal skills. */
+.writing{background:var(--brown);color:var(--paper);font-size:clamp(30px,4.2vw,68px);line-height:1.02;letter-spacing:-.065em}
+.writing>span:nth-child(2){color:var(--aqua)}
+.article-heading{font-size:11px;text-transform:uppercase;letter-spacing:.08em;margin:28px 0 12px}
+.article-links{list-style:none;padding:0;margin:0}.article-links li{border-top:1px solid var(--line)}
+.article-links a{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:18px 0;text-decoration:none}
+.article-links small{display:block;font-size:10px;margin-bottom:6px;opacity:.75}.article-links strong{font-size:16px;line-height:1.4;font-weight:500}
+.article-links a:hover strong{text-decoration:underline;text-underline-offset:4px}
+.skills-panel{border-top:1px solid rgba(219,225,218,.3);margin-top:35px;padding-top:28px;display:grid;grid-template-columns:1fr 1.4fr;gap:28px 35px}
+.skills-panel h3{font-size:20px;letter-spacing:-.03em;color:var(--aqua);margin:0 0 18px}.skills-panel h4{font-size:11px;font-weight:400;margin:0 0 12px}
+.skill-list{padding-left:17px;margin:0;font-size:13px;line-height:1.9}.tool-tags{display:flex;flex-wrap:wrap;gap:7px;list-style:none;margin:0 0 24px;padding:0}
+.tool-tags li{padding:8px 11px;border:1px solid rgba(219,225,218,.4);border-radius:25px;font-size:11px;line-height:1.3}
+.tool-tags:last-child{margin-bottom:0}.languages{grid-column:1/-1}.languages p{font-size:13px;line-height:1.7;margin:0}
+@media(max-width:760px){.skills-panel{grid-template-columns:1fr}.writing{font-size:6vw}}
+@media(max-width:500px){.writing{font-size:10vw}}
