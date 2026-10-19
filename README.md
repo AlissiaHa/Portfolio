@@ -24,11 +24,13 @@ Statische Portfolio-Website für GitHub Pages. Kein Build und keine Installation
 ### Noch zu ergänzen
 
 - Öffentliche E-Mail-Adresse: Der Kontaktbereich verweist vorläufig auf die Bewerbungsunterlagen.
-- Originalvorschaubilder für Mood Mirror und Hot n Cold: Aktuell werden bewusst typografische Titelbilder eingesetzt, keine erfundenen Arbeitsproben.
 - Einzelbilder der Tanzshow statt der gelieferten Collagen sind optional möglich.
 - Vor Veröffentlichung Bildrechte und gewünschte Urheberangaben für alle verwendeten Projektfotos prüfen.
 
 ## Bildnachweise
+
+- Mood Mirror: Screenshot/Vorschaubild des von Alissia verlinkten Videos https://youtu.be/FSpC67H90oI.
+- Hot n Cold: Standbild des verlinkten Instagram-Reels https://www.instagram.com/reel/DZ9346UM9RM/.
 
 - Alumni-Akquiseaktion: von Alissia Haldemann bereitgestellte Fotos.
 - Tanzshow: von Alissia Haldemann bereitgestellte Fotocollagen aus `Tanzshow.zip`.
