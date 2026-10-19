@@ -29,6 +29,8 @@ Statische Portfolio-Website für GitHub Pages. Kein Build und keine Installation
 
 ## Bildnachweise
 
+- Journalistisches Schreiben: von Alissia Haldemann bereitgestellter Screenshot des uniFOKUS-Titelbilds.
+
 - Mood Mirror: von Alissia Haldemann bereitgestellter Screenshot (`mood mirror.png`).
 - Hot n Cold: Standbild des verlinkten Instagram-Reels https://www.instagram.com/reel/DZ9346UM9RM/.
 
