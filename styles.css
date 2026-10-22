@@ -30,3 +30,5 @@
 #mood-mirror .project-visual>img,#hot-n-cold .project-visual>img{object-fit:contain;object-position:center}
 #mood-mirror .project-visual{background:#171a1e}
 #hot-n-cold .project-visual{background:var(--ink)}
+
+.hero-top p:first-child{font-size:clamp(20px,2.2vw,30px);line-height:1.3}
