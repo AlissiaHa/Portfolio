@@ -30,3 +30,19 @@ function openLinkedProject() {
 }
 window.addEventListener('hashchange', openLinkedProject);
 openLinkedProject();
+
+// Reveal the contact only after a visitor activates the button.
+const revealEmail = document.querySelector('#reveal-email');
+const emailAddress = document.querySelector('#email-address');
+if (revealEmail && emailAddress) {
+  revealEmail.hidden = false;
+  revealEmail.addEventListener('click', () => {
+    const address = String.fromCharCode(97,108,105,115,115,105,97,46,104,97,108,100,101,109,97,110,110,64,104,111,116,109,97,105,108,46,99,111,109);
+    const link = document.createElement('a');
+    link.href = 'mailto:' + address;
+    link.textContent = address;
+    emailAddress.replaceChildren(link);
+    revealEmail.hidden = true;
+    link.focus();
+  }, { once: true });
+}
